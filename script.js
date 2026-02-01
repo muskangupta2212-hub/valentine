@@ -23,5 +23,6 @@ noBtn.addEventListener("touchstart", moveNoButton);
 yesBtn.addEventListener("click", () => {
   question.style.display = "none";
   document.querySelector(".buttons").style.display = "none";
-  message.innerText = "YES 😌💖 Good job. Now make the plans ASAP!";
+  message.innerText = "YES 😎😎 Good job. Now make the plans ASAP!";
 });
+
